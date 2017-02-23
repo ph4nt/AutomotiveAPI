@@ -1,0 +1,11 @@
+{
+  "name": "automotive-api",
+  "version": "1.0.0",
+  "description": "Automotive API",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.10.2",
+    "redis": "^2.6.5",
+    "socket.io": "^1.7.1"
+  }
+}
